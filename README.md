@@ -4,8 +4,8 @@
 * https://szit.hu/doku.php?id=oktatas:web:html:html_feladatok
 
 Töltse le a repositoryt, benne az adat.txt és az index.html állományokat.
-* Mentse el az index.html állományt matrona.html néven
-* Az adat.txt állomány tartalmát illessze be a matrona.html oldal törzs részébe.
+* Mentse el az index.html állományt fuzfa.html néven
+* Az adat.txt állomány tartalmát illessze be a fuzfa.html oldal törzs részébe.
 1. Állítsa be az oldalt magyar nyelvűre.
 2. Állítsa be, hogy a böngészőfülön a „Két fűzfa” felirat jelenjen meg.
 3. Állítson be a szöveg előtt egyes szintű fejezetcímet, „Két fűzfa” tartalommal.
