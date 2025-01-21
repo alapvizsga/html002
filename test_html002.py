@@ -68,3 +68,7 @@ def test_html_comment():
     soup = load_html()
     comment = soup.find(string=lambda text: isinstance(text, str) and "Vizsgafeladat" in text)
     assert comment is not None, "Nem található a 'Vizsgafeladat' szöveg a megjegyzésben."
+
+
+if __name__ == "__main__":
+    pytest.main()
