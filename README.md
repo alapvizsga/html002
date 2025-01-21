@@ -17,6 +17,7 @@ Töltse le a repositoryt, benne az adat.txt és az index.html állományokat.
 >3 bekezdés: Az orákulum
 >```
 6. A „bevette magát” szöveget, a harmadik bekezdésben, jelölje meg kiemeltnek.
-7. A második bekezdésben a „időszerint” szót, jelölje meg dőlt szövegnek.
-8. A HTML forráskódjában, megjegyzésbe tegye be a "Vizsgafeladat" szöveget.
+   (nem használhatja a <strong> sem a <mark> jelölést.)
+8. A második bekezdésben a „időszerint” szót, jelölje meg dőlt szövegnek.
+9. A HTML forráskódjában, megjegyzésbe tegye be a "Vizsgafeladat" szöveget.
 
