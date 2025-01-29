@@ -36,9 +36,9 @@ def test_subheadings():
     assert len(h2_elements) == 3, "Nem pontosan 3 darab kettes szintű fejezetcím található."
 
     expected_h2_texts = [
-        "1 bekezdés: A jövedelem",
-        "2 bekezdés: A kollégium",
-        "3 bekezdés: Az orákulum"
+        "A jövedelem",
+        "A kollégium",
+        "Az orákulum"
     ]
     for i, h2 in enumerate(h2_elements):
         assert h2.text == expected_h2_texts[i], f"A {i+1}. alcím szövege nem megfelelő."
