@@ -12,9 +12,9 @@ Töltse le a repositoryt, benne az adat.txt és az index.html állományokat.
 4.  három bekezdést jelölje HTML elemmel, bekezdésnek.
 5. A bekezdéseknek a következő címet adja, kettes fejezetcímmel:
 >``` code linenums="1"
->1 bekezdés: A jövedelem
->2 bekezdés: A kollégium
->3 bekezdés: Az orákulum
+>A jövedelem
+>A kollégium
+>Az orákulum
 >```
 6. A „bevette magát” szöveget, a harmadik bekezdésben, jelölje meg kiemeltnek.
    (nem használhatja sem a strong sem a mark jelölést.)
